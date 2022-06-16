@@ -5,5 +5,5 @@
 3. What is the distribution of players in each rank?
 
 **Source**: [csgostats.gg](https://csgostats.gg)  
-**Type of Analytics**: *Descriptive*
-**Methods applied**: *Group By*, *Aggregation*, and *Counting*  
+**Type of Analytics**: *Descriptive*  
+**Methods applied**: *Group By*, *Aggregation*, and *Counting*   
